@@ -1,0 +1,52 @@
+Number 2 - Video name : D:/TakeNote/Video\2021년 1월 고려대학교 Lecture Ⅰ(찾아가는 전공강의) 심리학과.mp4
+Video number 2 process completed. (frame skip = 30)
+Duration = 60 min 2 sec, Frame_count = 104482, FPS = 29
+Process time = 849 seconds
+Number 3 - Video name : D:/TakeNote/Video\AWS Essential 1강 클라우드 컴퓨팅의 이해 _ T아카데미.mp4
+Video number 3 process completed. (frame skip = 30)
+Duration = 26 min 48 sec, Frame_count = 46655, FPS = 29
+Process time = 377 seconds
+Number 4 - Video name : D:/TakeNote/Video\IoT 취약점 공격 대책 - 1.위협, 취약점, 위험 입문.mp4
+Video number 4 process completed. (frame skip = 30)
+Duration = 27 min 14 sec, Frame_count = 49042, FPS = 30
+Process time = 447 seconds
+Number 5 - Video name : D:/TakeNote/Video\[경제기초강의] 1강 경제의 기초(경제인준비위원회 아담스미스).mp4
+Video number 5 process completed. (frame skip = 30)
+Duration = 13 min 47 sec, Frame_count = 19852, FPS = 24
+Process time = 185 seconds
+Number 6 - Video name : D:/TakeNote/Video\[딥러닝 자연어처리] BERT 이해하기.mp4
+Video number 6 process completed. (frame skip = 30)
+Duration = 14 min 14 sec, Frame_count = 24788, FPS = 29
+Process time = 199 seconds
+Number 7 - Video name : D:/TakeNote/Video\공인중개사 공부 - 민법 암기방법 #12 - 점유자와 회복자 관계 한방에 정리.mp4
+Video number 7 process completed. (frame skip = 30)
+Duration = 6 min 40 sec, Frame_count = 12001, FPS = 30
+Process time = 96 seconds
+Number 8 - Video name : D:/TakeNote/Video\알고리즘실습 - 이름 출력하기와 숫자 출력하기 차이점, 조건문(선택) 겹쳐쓰기.mp4
+Video number 8 process completed. (frame skip = 30)
+Duration = 24 min 51 sec, Frame_count = 38772, FPS = 26
+Process time = 401 seconds
+Number 9 - Video name : D:/TakeNote/Video\암호기술 기초 - 암호 기본 정리하기 Cryptography.mp4
+Video number 9 process completed. (frame skip = 30)
+Duration = 14 min 45 sec, Frame_count = 25669, FPS = 29
+Process time = 227 seconds
+Number 10 - Video name : D:/TakeNote/Video\임베디드비전시스템.mp4
+Video number 10 process completed. (frame skip = 30)
+Duration = 27 min 51 sec, Frame_count = 33426, FPS = 20
+Process time = 386 seconds
+Number 11 - Video name : D:/TakeNote/Video\정보보안개론  네트워크 보안(1) Network Security.mp4
+Video number 11 process completed. (frame skip = 30)
+Duration = 35 min 22 sec, Frame_count = 61566, FPS = 29
+Process time = 589 seconds
+Number 12 - Video name : D:/TakeNote/Video\행렬의 필요성 [ Python 데이터 분석과 이미지 처리 ].mp4
+Video number 12 process completed. (frame skip = 30)
+Duration = 8 min 52 sec, Frame_count = 15975, FPS = 30
+Process time = 119 seconds
+Number 13 - Video name : D:/TakeNote/Video\호텔경영론강의계획.mp4
+Video number 13 process completed. (frame skip = 30)
+Duration = 30 min 41 sec, Frame_count = 27627, FPS = 15
+Process time = 401 seconds
+Number 14 - Video name : D:/TakeNote/Video\회로이론 반은 먹고 들어갑니다. - 전기(산업)기사 필기.mp4
+Video number 14 process completed. (frame skip = 30)
+Duration = 17 min 11 sec, Frame_count = 30953, FPS = 30
+Process time = 233 seconds

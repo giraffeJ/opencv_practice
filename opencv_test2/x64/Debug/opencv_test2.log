@@ -1,0 +1,5 @@
+﻿  GetDirExtractImage.cpp
+C:\Users\jeff.park\source\repos\opencv_test2 - 복사본 - 복사본\opencv_test2\GetDirExtractImage.cpp(38,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jeff.park\source\repos\opencv_test2 - 복사본 - 복사본\opencv_test2\GetDirExtractImage.cpp(57,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jeff.park\source\repos\opencv_test2 - 복사본 - 복사본\opencv_test2\GetDirExtractImage.cpp(90,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  opencv_test2.vcxproj -> C:\Users\jeff.park\source\repos\opencv_test2 - 복사본 - 복사본\x64\Debug\opencv_test2.exe
